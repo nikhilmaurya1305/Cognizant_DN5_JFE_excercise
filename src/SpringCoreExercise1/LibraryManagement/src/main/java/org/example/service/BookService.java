@@ -1,4 +1,4 @@
-package org.example.service;
+package SpringCoreExercise1.LibraryManagement.src.main.java.org.example.service;
 
 public class BookService {
     public void showService() {

@@ -1,9 +1,8 @@
-package org.example;
+package SpringCoreExercise1.LibraryManagement.src.main.java.org.example;
 
-import org.example.repository.BookRepository;
-import org.example.service.BookService;
-import org.springframework.context.ApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import SpringCoreExercise1.LibraryManagement.src.main.java.org.example.repository.BookRepository;
+import SpringCoreExercise1.LibraryManagement.src.main.java.org.example.service.BookService;
 
 public class LibraryManagementApplication {
 
